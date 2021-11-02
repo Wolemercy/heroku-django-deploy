@@ -222,4 +222,3 @@ core.setOutput(
     "status",
     "Successfully deployed app from branch"
 );
-
